@@ -8,6 +8,8 @@ This starter contains three practical building blocks:
 - `BUG-BRIEF.md` — a five-minute bug-fix brief.
 - `QUALITY-GATE.md` — a compact review checklist.
 
+> Want the complete system? **[Get AgentBrief Pro — 43 production-ready assets for $29](https://payhip.com/b/TCHaM)**
+
 ## Use it
 
 1. Copy the files you need into your repository.
@@ -19,7 +21,15 @@ Build a custom brief with the free [AgentBrief generator](https://agentbrief-lau
 
 ## Pro kit
 
-AgentBrief Pro adds 43 production-ready assets: 18 `AGENTS.md` templates, 12 task briefs, 8 recovery playbooks, and 5 quality gates.
+AgentBrief Pro adds 43 production-ready assets:
+
+- 18 `AGENTS.md` templates for common repository types.
+- 12 task briefs for bugs, features, migrations, integrations, and releases.
+- 8 recovery playbooks for broken builds, scope drift, flaky tests, and missing context.
+- 5 quality gates for review, security, performance, accessibility, and release readiness.
+
+**[Get AgentBrief Pro →](https://payhip.com/b/TCHaM)**  
+$29 one-time · secure checkout and instant digital delivery by Payhip.
 
 ## License
 
