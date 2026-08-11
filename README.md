@@ -10,6 +10,8 @@ This starter contains three practical building blocks:
 
 > Want the complete system? **[Get AgentBrief Pro — 43 production-ready assets for $29](https://payhip.com/b/TCHaM)**
 
+> Need this adapted to your actual repository? **[Order a custom AGENTS.md for Codex, Claude Code, or Cursor — $25, delivered in 24 hours](https://www.fiverr.com/briefops_studio/write-a-custom-agents-md-for-codex-claude-code-or-cursor)**
+
 ## Use it
 
 1. Copy the files you need into your repository.
@@ -18,6 +20,12 @@ This starter contains three practical building blocks:
 4. Give the completed brief to your coding agent.
 
 Build a custom brief with the free [AgentBrief generator](https://agentbrief-launch.groovy-vine-6579.chatgpt.site/).
+
+## Custom repository setup
+
+For a ready-to-use result, the 24-hour service maps your repository layout, real commands, protected paths, workflow constraints, and definition of done into one editable `AGENTS.md` file.
+
+**[Order the $25 custom setup →](https://www.fiverr.com/briefops_studio/write-a-custom-agents-md-for-codex-claude-code-or-cursor)**
 
 ## Pro kit
 
@@ -28,7 +36,8 @@ AgentBrief Pro adds 43 production-ready assets:
 - 8 recovery playbooks for broken builds, scope drift, flaky tests, and missing context.
 - 5 quality gates for review, security, performance, accessibility, and release readiness.
 
-**[Get AgentBrief Pro →](https://payhip.com/b/TCHaM)**  
+**[Get AgentBrief Pro →](https://payhip.com/b/TCHaM)**
+
 $29 one-time · secure checkout and instant digital delivery by Payhip.
 
 ## License
