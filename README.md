@@ -8,7 +8,7 @@ This starter contains three practical building blocks:
 - `BUG-BRIEF.md` — a five-minute bug-fix brief.
 - `QUALITY-GATE.md` — a compact review checklist.
 
-> Want the complete system? **[Get AgentBrief Pro — 43 production-ready assets for $29](https://payhip.com/b/TCHaM)**
+> Want the complete system? **[Get AgentBrief Pro — 43 production-ready assets for $25](https://agentbriefstudio.itch.io/agentbrief-pro)**
 
 > Need this adapted to your actual repository? **[Order a custom AGENTS.md for Codex, Claude Code, or Cursor — $25, delivered in 24 hours](https://www.fiverr.com/briefops_studio/write-a-custom-agents-md-for-codex-claude-code-or-cursor)**
 
@@ -36,9 +36,9 @@ AgentBrief Pro adds 43 production-ready assets:
 - 8 recovery playbooks for broken builds, scope drift, flaky tests, and missing context.
 - 5 quality gates for review, security, performance, accessibility, and release readiness.
 
-**[Get AgentBrief Pro →](https://payhip.com/b/TCHaM)**
+**[Get AgentBrief Pro →](https://agentbriefstudio.itch.io/agentbrief-pro)**
 
-$29 one-time · secure checkout and instant digital delivery by Payhip.
+$25 one-time · secure checkout and instant digital delivery by itch.io.
 
 ## License
 
